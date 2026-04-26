@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasProperty("date")
+    order:
+      - file.name
+      - date
+      - certainty
+      - book
+      - borrower
+    sort:
+      - property: date
+        direction: ASC
+    columnSize:
+      file.name: 340
+      note.book: 176

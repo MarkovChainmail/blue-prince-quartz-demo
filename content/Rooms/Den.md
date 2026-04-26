@@ -1,0 +1,3 @@
+---
+chesspiece: pawn
+---

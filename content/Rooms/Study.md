@@ -1,0 +1,3 @@
+---
+chesspiece: black queen
+---

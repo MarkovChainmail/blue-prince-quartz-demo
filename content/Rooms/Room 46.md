@@ -1,0 +1,1 @@
+Contains the Ruby Crown with its rubies swapped to sapphires?

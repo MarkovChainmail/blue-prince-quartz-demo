@@ -1,0 +1,4 @@
+---
+chesspiece: knight
+---
+Password: swansong

@@ -1,0 +1,1 @@
+Has interactions with [[Garage]], [[Laundry Room]], [[Furnace]], [[Pump Room]]

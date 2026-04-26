@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("People")
+        - file.tags.contains("staff")
+    order:
+      - file.name
+      - job

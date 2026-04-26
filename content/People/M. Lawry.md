@@ -1,0 +1,1 @@
+Wrote a letter to the [[Herbert S. Sinclair|Baron]], which is in the Parlor.

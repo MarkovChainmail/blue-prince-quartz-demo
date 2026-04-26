@@ -1,0 +1,1 @@
+Head writer at the [[Herald]]
